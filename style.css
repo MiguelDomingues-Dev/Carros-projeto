@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#caixa-pais {
+  position: relative;
+  padding: 10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+h1 {
+  color: brown;
+}
